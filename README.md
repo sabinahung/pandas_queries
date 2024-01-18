@@ -1,4 +1,4 @@
-# pandas_animals-and-billionaires
+# pandas_queries
  
 In this assignment, we're asked to complete two notebooks to familiarize ourselves with the basics of pandas.
 
